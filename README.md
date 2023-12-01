@@ -51,5 +51,5 @@ For better understanding of the data of Yellow Cab, this [**link**](https://www1
 
 ## Project Output
 The goal is to gain a comprehensive understanding of Taxi Trip (Yellow Cab and Uber) business performance using step-by-step EDA and dashboard monitoring.
-- To read all of the insight documentation of Taxi Trip Analysis, [**click here**](^https://docs.google.com/presentation/d/1zzDUnIyO65EcDEFJXydR0xzjtxu8qvIuRgOJunDjx0o/edit?usp=sharing^).
-- To see and explore the Taxi Trip NYC Dashboard, [**click here**](^https://lookerstudio.google.com/reporting/ecced779-83cf-4567-a18c-f2e7eb7ca77b^).
+- To read all of the insight documentation of Taxi Trip Analysis, [**click here**](https://docs.google.com/presentation/d/1zzDUnIyO65EcDEFJXydR0xzjtxu8qvIuRgOJunDjx0o/edit?usp=sharing).
+- To see and explore the Taxi Trip NYC Dashboard, [**click here**](https://lookerstudio.google.com/reporting/ecced779-83cf-4567-a18c-f2e7eb7ca77b).
