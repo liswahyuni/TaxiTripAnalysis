@@ -35,3 +35,21 @@ There are differences between them:
 *   Yellow Cab: the same 5-mile, 10-minute trip going 25 miles per hour, the entire way in a taxi would cost the base fare of \$2.50 plus 25 units at \$0.50 each, or \$12.50, for a total of \$15.00. It is customary to tip the driver 10% to 20%. This adds \$3 to the cab fare, for a total of \$18.
 
 For better understanding of the data of Yellow Cab, this [**link**](https://www1.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf) provides a dictionary of all column descriptions.
+
+## To-Do List
+- [x] Understand the project requirements
+- [x] Collect datasets
+- [x] Understand the dataset documentation
+- [x] Conduct Exploratory Data Analysis (EDA) and prepare the final CSV dataset for dashboard data input
+- [x] Create a dashboard
+- [x] Write insight documentation 
+
+## Tech Stack
+- Python
+- Google Slides
+- Looker Studio
+
+## Project Output
+The goal is to gain a comprehensive understanding of Taxi Trip (Yellow Cab and Uber) business performance using step-by-step EDA and dashboard monitoring.
+- To read all of the insight documentation of Taxi Trip Analysis, [**click here**](^https://docs.google.com/presentation/d/1zzDUnIyO65EcDEFJXydR0xzjtxu8qvIuRgOJunDjx0o/edit?usp=sharing^).
+- To see and explore the Taxi Trip NYC Dashboard, [**click here**](^https://lookerstudio.google.com/reporting/ecced779-83cf-4567-a18c-f2e7eb7ca77b^).
